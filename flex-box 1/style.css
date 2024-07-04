@@ -15,406 +15,280 @@
   text-align: center;
 }
 .row_ReverseDiv {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row-reverse;
 }
 .columnDiv {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column;
 }
 
 .column_ReverseDiv {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column-reverse;
 }
 
 .flex-wrapDiv {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-wrap: wrap;
 }
 
 .flex-nowrapDiv {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-wrap: nowrap;
 }
 
 .flex-wrap-reverseDiv {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-wrap: wrap-reverse;
 }
 
 .flex_Justify-content_Align-items1 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row;
   justify-content: start;
   align-items: start;
 }
 
 .flex_Justify-content_Align-items2 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row;
   justify-content: center;
   align-items: start;
 }
 
 .flex_Justify-content_Align-items3 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row;
   justify-content: end;
   align-items: start;
 }
 
 .flex_Justify-content_Align--items4 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row;
   justify-content: start;
   align-items: center;
 }
 
 .flex_Justify-content_Align-items5 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row;
   justify-content: center;
   align-items: center;
 }
 
 .flex_Justify-content_Align-items6 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row;
   justify-content: end;
   align-items: center;
 }
 
 .flex_Justify-content_Align-items7 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row;
   justify-content: start;
   align-items: end;
 }
 
 .flex_Justify-content_Align-items8 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row;
   justify-content: center;
   align-items: end;
 }
 
 .flex_Justify-content_Align-items9 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row;
   justify-content: end;
   align-items: end;
 }
 
 .flex_row-reverse_Justify-content_Align-items1 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row-reverse;
   justify-content: start;
   align-items: start;
 }
 
 .flex_row-reverse_Justify-content_Align-items2 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row-reverse;
   justify-content: center;
   align-items: start;
 }
 
 .flex_row-reverse_Justify-content_Align-items3 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row-reverse;
   justify-content: end;
   align-items: start;
 }
 .flex_row-reverse_Justify-content_Align-items4 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row-reverse;
   justify-content: start;
   align-items: center;
 }
 
 .flex_row-reverse_Justify-content_Align-items5 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row-reverse;
   justify-content: center;
   align-items: center;
 }
 
 .flex_row-reverse_Justify-content_Align-items6 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row-reverse;
   justify-content: end;
   align-items: center;
 }
 
 .flex_row-reverse_Justify-content_Align-items7 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row-reverse;
   justify-content: start;
   align-items: end;
 }
 
 .flex_row-reverse_Justify-content_Align-items8 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row-reverse;
   justify-content: center;
   align-items: end;
 }
 
 .flex_row-reverse_Justify-content_Align-items9 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: row-reverse;
   justify-content: end;
   align-items: end;
 }
 
 .flex_column_Justify-content_Align-items1 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column;
   justify-content: start;
   align-items: start;
 }
 
 .flex_column_Justify-content_Align-items2 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column;
   justify-content: start;
   align-items: center;
 }
 
 .flex_column_Justify-content_Align-items3 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column;
   justify-content: start;
   align-items: end;
 }
 
 .flex_column_Justify-content_Align-items4 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column;
   justify-content: center;
   align-items: start;
 }
 
 .flex_column_Justify-content_Align-items5 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
 .flex_column_Justify-content_Align-items6 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column;
   justify-content: center;
   align-items: end;
 }
 
 .flex_column_Justify-content_Align-items7 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column;
   justify-content: end;
   align-items: start;
 }
 
 .flex_column_Justify-content_Align-items8 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column;
   justify-content: end;
   align-items: center;
 }
 
 .flex_column_Justify-content_Align-items9 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column;
   justify-content: end;
   align-items: end;
 }
 
 .flex_column-reverse_Justify-content_Align-items1 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column-reverse;
   justify-content: start;
   align-items: start;
 }
 
 .flex_column-reverse_Justify-content_Align-items2 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column-reverse;
   justify-content: start;
   align-items: center;
 }
 
 .flex_column-reverse_Justify-content_Align-items3 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column-reverse;
   justify-content: start;
   align-items: end;
 }
 
 .flex_column-reverse_Justify-content_Align-items4 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column-reverse;
   justify-content: center;
   align-items: start;
 }
 
 .flex_column-reverse_Justify-content_Align-items5 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column-reverse;
   justify-content: start;
   align-items: center;
 }
 
 .flex_column-reverse_Justify-content_Align-items6 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column-reverse;
   justify-content: center;
   align-items: end;
 }
 
 .flex_column-reverse_Justify-content_Aligni-tems7 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column-reverse;
   justify-content: end;
   align-items: start;
 }
 
 .flex_column-reverse_Justify-content_Align-items8 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column-reverse;
   justify-content: end;
   align-items: center;
 }
 
 .flex_column-reverse_Justify-content_Align-items9 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-direction: column-reverse;
   justify-content: end;
   align-items: end;
@@ -444,10 +318,7 @@
   background-color:deepskyblue;
  } 
  /* .flex-wrapDiv1 {
-  width: 800px;
-  height: 500px;
-  background-color: rgb(55, 55, 136);
-  display: flex;
+
   flex-wrap: wrap;
   justify-content: start ;
   align-items:start;
